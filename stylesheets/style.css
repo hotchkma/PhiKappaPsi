@@ -34,14 +34,14 @@ h2 {
 
 #main-photo {
 	width: -webkit-fill-available;
-	margin: -350px 0px -175px 0px;
+	margin: -300px 0px -175px 0px;
 	filter: brightness(0.6);
 }
 
 #main-photo-words {
 	text-align: center;
 	position: relative;
-	bottom: 600px;
+	bottom: 400px;
 	color: white;
 }
 
@@ -58,7 +58,7 @@ h2 {
 #content {
 	background-color: white;
 	position: relative;
-	bottom: 400px;
+	bottom: 300px;
 	padding: 3% 20% 0% 20%;
 }
 
